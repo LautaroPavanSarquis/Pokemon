@@ -1,3 +1,1 @@
- juego web desarrollado con HTML, CSS, JavaScript y Node.js. 
- 
- Elige a tu pokemon favorito y enfrenta a otros Pokemones en peleas épicas de agua, fuego y tierra.
+Mokepon es un proyecto introductorio desarrollado como parte del curso de Programación Básica de Platzi. Este pequeño juego permite explorar los fundamentos de HTML, CSS y JavaScript, aprendiendo conceptos clave como manipulación del DOM, eventos, estilos, y lógica de programación.
